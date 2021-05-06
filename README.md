@@ -1,4 +1,4 @@
-# mini-disasembleris
+  # mini-disasembleris
 Kompiuterių architektūros darbas
 
 # Įžanga
@@ -20,4 +20,5 @@ Parašytas per 2-3 savaites, todėl didelė tikimybė, jog yra bugų, netikslum�
 Paleisti galima arba DOS operacinėje sistemoje, arba naudojant DOS emuliatorių (pavyzdžiui, Dosbox). Kompiliuojama naudojant TurboAssembler. Instrukcijos ir pranešimai lietuvių kalba.
 
 disasm.exe - pagalba, kaip naudotis;
+
 disasm vykdomasis-failas rezultatu-failas - disasemblinamas vykdomasis failas, o ASM komandos patalpinamos rezultatų faile.

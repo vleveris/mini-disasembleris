@@ -22,3 +22,10 @@ Paleisti galima arba DOS operacinėje sistemoje, arba naudojant DOS emuliatorių
 disasm.exe - pagalba, kaip naudotis;
 
 disasm vykdomasis-failas rezultatu-failas - disasemblinamas vykdomasis failas, o ASM komandos patalpinamos rezultatų faile.
+
+# Kodas
+
+Viso labo 2 failai:
+- disasm.asm - visas kodas;
+- testavimui.asm - kai kurios sudėtingesnės komandos testavimui (reiktų sukompiliuoti su TASM, o gautą COM failą galima bandyti disasemblinti).
+

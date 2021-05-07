@@ -10,11 +10,11 @@ Kompiuterių architektūros darbas
 
 # Kas tai?
 
-Disasembleris iš mašininio vykdomojo failo generuoja source kodą Assembly kalba. Ši programa disasemblina tik COM vykdomuosius failus (iki 64 kb). Atpažįstamos ne visos komandos, bet didžioji dalis ir beveik visos dažniausiai naudojamos.
+Disasembleris iš mašininio vykdomojo failo generuoja source kodą Assembly kalba. Ši programa disasemblina tik COM vykdomuosius failus (iki 64 kb). Atpažįsta Intel X86 procesoriaus komandas. Gautą asemblerinį kodą galima kompiliuoti į mašininį TASM, MASM ar alternatyviais kompiliatoriais. Atpažįstamos ne visos komandos, bet didžioji dalis ir beveik visos dažniausiai naudojamos.
 
 # Trūkumai
 
-Parašytas per 2-3 savaites, todėl didelė tikimybė, jog yra bugų, netikslumų ir klaidų. Veikimas testuotas, bet dėl suprantamų priežasčių pilnai ištestuoti gana sudėtinga ir užima laiko.
+Parašytas per 2-3 savaites, todėl didelė tikimybė, jog yra bugų, netikslumų ir klaidų. Veikimas testuotas, bet dėl suprantamų priežasčių pilnai ištestuoti gana sudėtinga ir užima laiko. 
 
 # Kaip visa tai veikia?
 Paleisti galima arba DOS operacinėje sistemoje, arba naudojant DOS emuliatorių (pavyzdžiui, Dosbox). Kompiliuojama naudojant TurboAssembler. Instrukcijos ir pranešimai lietuvių kalba.
